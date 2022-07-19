@@ -4,4 +4,4 @@
 * 🔭 I’m currently working in Tecno-Tech as a Mid-Level Software Engineer.
 * 🌱 I’m currently learning Clean Architecture with TDD, unit testing and new Architectures.
 * 💬 Ask me about Software Development.
-* 📫 How to reach me: z.emad@tecno-tech.co / https://www.linkedin.com/in/zieademad/
+* 📫 How to reach me: Business: z.emad@tecno-tech.co | Personal: zieadwjsjs@gmail.com / Linkedin: https://www.linkedin.com/in/zieademad/
